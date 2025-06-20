@@ -71,7 +71,7 @@ JWT_SECRET="yoursecretkey"
 ```bash
 cd client
 npm install
-npm start
+npm run dev
 ```
 
 Update Axios base URL to backend in `src/utils/api.js`:
